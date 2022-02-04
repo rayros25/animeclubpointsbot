@@ -1,3 +1,6 @@
+// index
+// This is where the magic happens I think?
+
 //discord js imports
 const { Op } = require('sequelize');
 const { Collection, Client, Intents, MessageEmbed, MessageAttachment, Formatters } = require('discord.js');

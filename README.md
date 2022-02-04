@@ -1,4 +1,4 @@
-Anime Club Points Counter Discord Bot (but cooler)
+Anime Club Point Bot (but BETTER!)
 
 # Setup
 

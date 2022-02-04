@@ -1,3 +1,6 @@
+// messageCreate
+// how the bot reacts to messages being sent?
+
 module.exports = (client,message) => {
     //ignore all bots
     if(message.author.bot) return;

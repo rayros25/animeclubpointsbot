@@ -1,3 +1,6 @@
+// dbInit
+// This file initializes the database? Maybe?
+
 const Sequelize = require('sequelize');
 
 const sequelize = new Sequelize('database', 'username', 'password', {

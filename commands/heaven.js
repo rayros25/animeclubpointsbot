@@ -1,3 +1,6 @@
+// heaven
+// This is not that hard to understand 
+
 exports.run = (client, message, args) => {
     //const target = interaction.options.getUser('user') ?? interaction.user;
     let target = message.author;

@@ -1,3 +1,6 @@
+// dbObjects.js~
+// What does the tilde at the end mean? Is these even compilable?
+
 const Sequelize = require('sequelize');
 
 const sequelize = new Sequelize('database', 'username', 'password', {

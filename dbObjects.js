@@ -1,3 +1,6 @@
+// dbObjects
+// I can't really tell what this does
+
 const Sequelize = require('sequelize');
 
 const sequelize = new Sequelize('database', 'username', 'password', {
